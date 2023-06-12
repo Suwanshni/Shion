@@ -1,0 +1,17 @@
+header img{
+    background-color: rgb(33, 37, 41);
+    border-radius: 10px;
+}
+
+table{
+    margin-top: 40px;
+    width:280px;
+    border:10px;
+    border-color: black;
+}
+
+.input{
+    margin-top: 10px;
+    border-radius: 4px;
+    height: 40px;   
+}
